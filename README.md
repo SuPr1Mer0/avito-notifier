@@ -21,6 +21,11 @@
 ## Запуск
 
 ```bash
+# 1. Установить зависимости
 pip install -r requirements.txt
-# создай .env с BOT_TOKEN=... и ADMIN_ID=...
+
+# 2. Настроить токен
+# вставить BOT_TOKEN от @BotFather
+
+# 3. Запустить
 python bot.py
